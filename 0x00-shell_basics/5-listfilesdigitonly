@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -rtl -al
+ls -d -l
