@@ -1,2 +1,2 @@
 #!/bin/bash
-mv betty /tmp/y_first_directory
+mv betty /root/tmp/y_first_directory
