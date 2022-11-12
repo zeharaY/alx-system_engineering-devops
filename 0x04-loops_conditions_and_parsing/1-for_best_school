@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 time
+
+for i in {0..9}
+do 
+	echo "Best School"
+done 
+export i
